@@ -1,3 +1,10 @@
+#
+# 폴더 생성 반복해서 할 수 없나?
+# 폴더 이름을 숫자int로 해서 생성할 수 없나?
+# 폴더에 파일 저장할 때 경로에 문자열밖에 못 쓰는 문제 (: 숫자를 경로 내에 포함해서 표시할 수 없다..)
+#
+#
+
 from bs4 import BeautifulSoup
 from pprint import pprint
 import requests, re, os
